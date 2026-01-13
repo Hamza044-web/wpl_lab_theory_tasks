@@ -2,8 +2,6 @@
 # online-quiz-system
 An online quiz system built on PHP, JS and HTML. It has inbuilt Timer support along with Admin Panel
 
-This project is a great improvement of 'Online-Exam-System-' created by Sunny Prakash Tiwari (https://github.com/sunnygkp10). Since it was licensed under MIT so I think I have rights to improve and re-distribute it. I have again licensed it under MIT. You are free to modify and re-distribute
-
 ## Added features
 
 1. Added Timer support.
@@ -18,7 +16,7 @@ This project is a great improvement of 'Online-Exam-System-' created by Sunny Pr
 1. Create a new database in MySQL.
 2. Run the SQL query in "quizzer.sql".
 3. Open the file "dbConnection.php" and change the Server name, Username, Password and Database name.
-4. Visit the home page in browser. Use the "Admin Login" link to login to Admin Panel. Default user - 'sonudoo' pass - '1234567890'
+4. Visit the home page in browser. Use the "Admin Login" link to login to Admin Panel. Default user - 'admin123' pass - 'admin'
 
 ## How to Use
 
@@ -54,7 +52,7 @@ This repository also contains lab tasks and theory assignments.
 # online-quiz-system
 An online quiz system built on PHP, JS and HTML. It has inbuilt Timer support along with Admin Panel
 
-This project is a great improvement of 'Online-Exam-System-' created by Sunny Prakash Tiwari (https://github.com/sunnygkp10). Since it was licensed under MIT so I think I have rights to improve and re-distribute it. I have again licensed it under MIT. You are free to modify and re-distribute
+
 
 # Added features: 
 
@@ -70,7 +68,7 @@ This project is a great improvement of 'Online-Exam-System-' created by Sunny Pr
 1. Create a new database in MySQL.
 2. Run the SQL query in "quizzer.sql".
 3. Open the file "dbConnection.php" and change the Server name, Username, Password and Database name.
-3. Visit the home page in browser. Use the "Admin Login" link to login to Admin Panel. Default user - 'sonudoo' pass - '1234567890'
+3. Visit the home page in browser. Use the "Admin Login" link to login to Admin Panel. Default user - 'admin123' pass - 'admin'
 
 # How to Use
 
